@@ -11,11 +11,11 @@ The project is composed of three parts:
 
 The description of all the data processing steps is available here: 
 
-#### K-means images
+## K-means images
 <img width="705" height="680" alt="image" src="https://github.com/user-attachments/assets/f1f6494b-f737-41f8-9e68-ffdd14689a9f" />
 
-#### SVM images
+## SVM images
 <img width="1561" height="652" alt="image" src="https://github.com/user-attachments/assets/db0b20ef-03ad-4f0e-8ef2-c88a12b2f37f" />
 
-#### Random Forest images
+## Random Forest images
 <img width="1266" height="712" alt="image" src="https://github.com/user-attachments/assets/2a58bd37-f04f-4b26-89fb-e4670fc656dc" />

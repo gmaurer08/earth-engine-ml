@@ -9,7 +9,7 @@ The project is composed of three parts:
 2. **SVM** binary classification between water and land pixels over Lake Victoria, with images from *"Landsat 8 Collection 2 Level-2, Tier 1 Surface Reflectance (SR)*".
 3. **Random forest** land-cover classification over Camargue, with data from *"Sentinel-2 Surface Reflectance (SR)"*.
 
-The description of all the data processing steps is available here: (project_report.pdf)[project_report.pdf]
+The description of all the data processing steps is available here: (project_report.pdf)[https://github.com/gmaurer08/earth-engine-ml/blob/main/project_report.pdf]
 
 ## K-means images
 <img width="705" height="680" alt="image" src="https://github.com/user-attachments/assets/f1f6494b-f737-41f8-9e68-ffdd14689a9f" />
